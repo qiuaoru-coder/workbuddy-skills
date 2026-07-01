@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game GMT Review"
+  short_description: "用GMT框架拆解目标手段工具并验证游戏策划案核心逻辑"
+  default_prompt: "Use $game-gmt-review to review this game design proposal with the GMT framework."
